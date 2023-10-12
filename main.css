@@ -1,47 +1,24 @@
-p {
-    font-family: verdana;
-    font-size: 400px;
-    }
-    style>
-    body {
-      background-color: rosybrown;
-    }
+
     
-    h1 {
-      color: rosybrown;
-      text-align: center;
-    }
-    
-    p {
-      font-family: verdana;
-      font-size: 20px;
-      color: rosybrown;
-    }
-
-
-    body {
-      background-image: url('imgae1.jpeg');
-      background-repeat: no-repeat;
-    }
-    footer {color: #dc143c;
-      }
-
-      
-    body {
-  background-color: rosybrown
-}
-
           body {
             background-color: rosybrown;
           }
-          
+         
           h1 {
             color: #dc143c;
             text-align: center;
+            font-size: xxx-large;
           }
           
-          p {
+          p  {
             font-family: verdana;
-            font-size: 20px;
+            font-size: 30px;
             color:#dc143c;
+          }
+          
+        body {
+        background-image: url('images/images1.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
           }
