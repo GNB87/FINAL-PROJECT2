@@ -1,24 +1,23 @@
-
+body {
+    background-color: rosybrown;
+  }
+ 
+  h1 {
+    color: #dc143c;
+    text-align: center;
+    font-size: xxx-large;
     
-          body {
-            background-color: rosybrown;
-          }
-         
-          h1 {
-            color: #dc143c;
-            text-align: center;
-            font-size: xxx-large;
-          }
-          
-          p  {
-            font-family: verdana;
-            font-size: 30px;
-            color:#dc143c;
-          }
-          
-        body {
-        background-image: url('images/images1.jpeg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-          }
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 50px;
+    color:#dc143c;
+  }
+  
+body {
+background-image: url('images/images1.jpeg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+  }
